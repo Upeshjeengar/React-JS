@@ -1,4 +1,4 @@
-I am learning React from Hitesh Choudhary.<a href='https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige'> **Chai aur React** </a>.  
+I am learning React from Hitesh Choudhary(<a href='https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige'> **Chai aur React** </a>).  
 This repo provides a good hands summary(including theory and code) of his lectures.  
 # Lecture 1
 ## Introduction and learning Plan
