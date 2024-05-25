@@ -1,3 +1,8 @@
+I am learning React from Hitesh Choudhary.<a href='https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige'> **Chai aur React** </a>.  
+This repo provides a good hands summary(including theory and code) of his lectures.  
+# Lecture 1
+## Introduction and learning Plan
+
 # Lecture 2 & 3
 we have 2 methods to install packages(we can also use importing api's using JS)
 npx-node package executor
