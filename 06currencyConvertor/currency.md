@@ -1,4 +1,4 @@
-# notes for currency converter app
+# Notes for currency converter app
 
 ## api link
 
@@ -105,3 +105,6 @@ function App() {
     );
 
 ```
+
+# Conclusions:
+If we you want good performance then use **key** while looping

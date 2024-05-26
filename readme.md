@@ -75,3 +75,13 @@ in card.jsx pass props as function parameter
 # Lecture 8
 ## React interview question on counter
 goto `02counter/src/App.jsx` Description is written in **addValue** function
+
+# Lecture 10
+## useEffect useRef and useCallback with 1 project
+Optimized Project Password generator(Features: Has option for customizing with length, including numbers or char & Copy button to copy generated password)- Memoization using react hooks
+
+
+# Lecture 12
+## React router crash course
+react-router-dom => Link and NavLink
+<Link to='/'>
